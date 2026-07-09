@@ -25,3 +25,11 @@ This repository contains my solutions to LeetCode problems, automatically synced
 I regularly update this repository as I solve new problems.
 
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
