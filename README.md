@@ -32,4 +32,16 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
