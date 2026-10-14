@@ -37,6 +37,7 @@ Happy Coding! 💻
 | ------- |
 | [0001-two-sum](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ankita471mandal/My-DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
